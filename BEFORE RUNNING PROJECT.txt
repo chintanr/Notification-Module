@@ -1,0 +1,5 @@
+(folder 'node_modules' is removed for decreasing the folder size.)
+
+-> Before running this project, make sure to run command "npm install" in VSC terminal/cmd once you are inside project folder path.
+
+Thanks
